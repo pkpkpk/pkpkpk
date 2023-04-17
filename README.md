@@ -1,4 +1,4 @@
-### Hola 👋 My name is Pat. I live in rural PR 🇵🇷 where I like to ride Paso Finos 🐎 and hack on lisp repls
+### Hola 👋 My name is Pat. I like to ride Paso Finos 🐎 🇵🇷  and hack on lisp repls
 
 - 🔭 I’m currently looking for software engineering role in clojure, java, or rust
 - 📫 How to reach me: info@luquillosoftDOTworks
