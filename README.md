@@ -1,4 +1,4 @@
-### Hola 👋 My name is Pat. I like to ride Paso Finos 🐎 🇵🇷  and hack on lisp repls
+<!--### Hola 👋 My name is Pat. I like to ride Paso Finos 🐎 🇵🇷  and hack on lisp repls
 
 - 🔭 open to short-term engagements in java & clojure
 - 📫 info@luquillosoftDOTworks
